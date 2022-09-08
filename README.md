@@ -4,6 +4,11 @@
 ### Tutorial:
 https://www.example.com
 
+### Reqs:
+
+```bash
+sudo apt install gcc build-essential genisoimage xorriso
+```
 
 ## Generate ISO:
 
